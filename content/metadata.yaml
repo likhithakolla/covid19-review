@@ -393,3 +393,21 @@ authors:
     coi:
       string: "None"
       lastapproved: !!str 2020-04-17
+  -
+    github: likhithakolla
+    name: Likhitha Kolla 
+    initials: LK
+    orcid: 0000-0002-1169-906X
+    twitter: lkolla2018
+    email: likhitha.kolla@pennmedicine.upenn.edu
+    contributions:
+      - Writing - Original Draft
+      - Writing - Review & Editing
+    affiliations:
+      - Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America
+    code of conduct:
+      confirmed: yes
+    coi: 
+      string: "None"
+      lastapproved: !!str 2020-04-22
+    funders: NIH Medical Scientist Training Program T32 GM07170
